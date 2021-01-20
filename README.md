@@ -1,4 +1,4 @@
-# FRUVIS<br />
+# Fruvis<br />
 <br />
 <br />
 I'll be building this voice assistant with GLaDOS voice from portal. Some things I want it to do is:<br />
