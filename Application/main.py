@@ -18,7 +18,6 @@ def fruvisfalas():
 
 Activation = False
 runtime = 0
-
 while True:
 
     if runtime == 0:
