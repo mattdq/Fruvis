@@ -38,10 +38,10 @@ while True:
 
         elif text.count("turn lights on") > 0:
             FruvisCall("turning lights on")
-            requests.get("http://192.168.15.13:5000/HomeAutomation/led?pin=17&mode=HIGH")
+            requests.get("http://192.168.15.13:5000/HomeAutomation/light?mode=HIGH")
         elif text.count("turn lights off") > 0:
             FruvisCall("turning lights off")
-            requests.get("http://192.168.15.13:5000/HomeAutomation/led?pin=17&mode=LOW")
+            requests.get("http://192.168.15.13:5000/HomeAutomation/light?mode=LOW")
         elif text.count("wake up") > 0:
             FruvisCall("hi")
             Activation = True
