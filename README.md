@@ -2,11 +2,11 @@
 <br />
 <br />
 I'll be building this voice assistant with GLaDOS voice from portal. Some things I want it to do is:<br />
-  -( ) Turn lights on/off.<br />
+  -(X) Turn lights on/off.<br />
   -( ) Wake me up in the mornings (Alarm + Courtain Opennings).<br />
   -( ) Log my credit card expenses.<br />
   -( ) Create Appointments.<br />
-  -( ) Play Spotify Music.<br />
+  -(X) Play Spotify Music.<br />
   -( ) Google Search.<br />
   -( ) Weather Search.<br />
   -( ) Youtube Search + Play. (Maybe)<br />
