@@ -130,3 +130,6 @@ dmypy.json
 
 # PyCharm
 .idea/
+
+#AWS files
+credentials.json
